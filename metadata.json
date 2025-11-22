@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trade Like God",
+  "description": "Ultimate Forex trading journal and dashboard with AI-powered technical analysis, risk alerts, and TradingView integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
